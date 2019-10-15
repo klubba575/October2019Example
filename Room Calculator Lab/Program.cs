@@ -13,7 +13,7 @@ namespace Room_Calculator_Lab
 
 			do
 			{
-				Console.Write("Enter Length: ");
+				Console.Write("Enter Length of room: ");
 				string roomLength = Console.ReadLine();
 
 				Console.Write("Enter Width: ");
